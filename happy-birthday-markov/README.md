@@ -10,6 +10,6 @@ and values being a list of notes that could come next.
 Finally, it writes to a file code that can be executed
 by sonic pi.  
 You can hear an example of the audio on soundcloud:  
-https://soundcloud.com/erik-kristofer-anderson/happy-birthday-markov. 
+https://soundcloud.com/erik-kristofer-anderson/happy-birthday-markov.  
 There will also soon be a video on youtube
 explaining how I did this.  
