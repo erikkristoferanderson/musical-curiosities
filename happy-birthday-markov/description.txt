@@ -1,0 +1,11 @@
+This directory houses a mashup of 'Happy Birthday' and Markov chains.
+The python code takes text input in the format of text showing
+a midi event stream captured by Sonic Pi.
+It parses this input to create an ordered list of numbers
+that represent the happy birthday melody.
+It then generates a dictionary of with keys being note numbers
+and values being a list of notes that could come next.
+Finally, it writes to a file code that can be executed
+by sonic pi.
+I will soon put a recording of the resulting audio on sound
+cloud, and a video showing the process on youtube.
